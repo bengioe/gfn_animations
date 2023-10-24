@@ -8,7 +8,7 @@ Requirements: `manim` and `rdkit`, for `manim` works with [this commit](https://
 
 **Credit**: If you feel like it, you can credit me (Emmanuel Bengio) for the animation, but feel free to reuse and make it your own.
 
-GIFs are below but if you're looking for higher-quality prerendered mp4 equivalents check out [`videos`](videos/).
+Low quality GIFs are below but if you're looking for higher-quality prerendered mp4 equivalents check out [`videos`](videos/).
 
 ## Animations
 
