@@ -1,7 +1,7 @@
 # gfn_animations
-Some cute GFN animations with manim
+Some cute GFN animations made with `manim` that I created for a talk.
 
-Requirements: `manim` and `rdkit`, for `manim` works with [this commit](https://github.com/3b1b/manim/tree/d8428585f84681055fed8aa3fabfb6ae95e4a0ff) but [this patch](https://github.com/3b1b/manim/pull/2055) is required.
+Requirements: `manim` and `rdkit`, `manim` was used with [this commit](https://github.com/3b1b/manim/tree/d8428585f84681055fed8aa3fabfb6ae95e4a0ff) but [this patch](https://github.com/3b1b/manim/pull/2055) is required for the molecule images to display correctly.
 
 
 **Note**: with `DOT_DENSITY` set high enough (current default is 20), things can take quite a while to render (MolsFrags takes like 3-4 minutes on my laptop). For debugging consider setting `DOT_DENSITY` to 2 or 3.
